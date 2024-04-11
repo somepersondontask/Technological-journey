@@ -26,6 +26,15 @@ var materialList = MaterialRegistry.getAllMaterials();
 <material:neutronium>.addFlags(["GENERATE_ROUND"]);
 <material:qcd_confined_matter>.addFlags(["GENERATE_GEAR"]);
 
+<material:bohrium>.addFlags(["GENERATE_ORE"]);
+<material:seaborgium>.addFlags(["GENERATE_ORE"]);
+<material:fermium>.addFlags(["GENERATE_ORE"]);
+<material:einsteinium>.addFlags(["GENERATE_ORE"]);
+<material:americium>.addFlags(["GENERATE_ORE"]);
+<material:berkelium>.addFlags(["GENERATE_ORE"]);
+<material:rhodium>.addFlags(["GENERATE_ORE"]);
+<material:ruthenium>.addFlags(["GENERATE_ORE"]);
+<material:dubnium>.addFlags(["GENERATE_ORE"]);
 //DISABLE_REPLICATION
 
 <material:adamantium>.addFlags(["DISABLE_REPLICATION"]);
@@ -112,6 +121,8 @@ val bright_steel = MaterialRegistry.createIngotMaterial(526, "bright_steel", 0xd
 bright_steel.setCableProperties(8192, 3, 2);
 
 
+
+
 //Starlight_Fuel
 util.registerDust("starfuelcatalyst", 527, 0x130642, "SHINY");
 
@@ -138,4 +149,7 @@ util.registerFluid("octaazacubanesolution", 0x5f5fd9, "N₈(H₂O)");
 
 util.registerFluid("eternity", 0x46008b);
 
-val soularium = MaterialRegistry.createIngotMaterial(534, "soularium",  0x3b2a15, "dull", 10, null, 40.0f, 6, 512);soularium.addFlags(["GENERATE_PLATE","SMELT_INTO_FLUID","GENERATE_DENSE","GENERATE_ROD","GENERATE_FRAME","GENERATE_PLASMA","GENERATE_BOLT_SCREW"]);
+util.registerFluid("fusion1", 0x7B0EFF, "BhSg");
+util.registerFluid("fusion2", 0xE9FA50, "RfDb");
+
+val soularium = MaterialRegistry.createIngotMaterial(534, "soularium",  0x3b2a15, "dull", 10, null, 13.0f, 6, 512);soularium.addFlags(["GENERATE_PLATE","SMELT_INTO_FLUID","GENERATE_DENSE","GENERATE_ROD","GENERATE_FRAME","GENERATE_PLASMA","GENERATE_BOLT_SCREW"]);
