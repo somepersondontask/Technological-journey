@@ -6,7 +6,7 @@
 			Amount: 1000
 		}
 	},
-	x: -5.0d,
+	x: -4.5d,
 	y: -3.5d,
 	dependencies: [
 		"f7cc2378",
@@ -15,6 +15,6 @@
 	tasks: [{
 		uid: "08342c0d",
 		type: "checkmark",
-		title: "Benzylamine"
+		title: "benzylamine"
 	}]
 }

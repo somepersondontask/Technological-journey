@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "la_nd_oxides_solution",
+			Amount: 1000
+		}
+	},
+	x: 12.0d,
+	y: 6.5d,
+	dependencies: [
+		"d7f5ab11"
+	],
+	tasks: [{
+		uid: "d976041f",
+		type: "checkmark",
+		title: "La-Nd Oxides Solution"
+	}]
+}

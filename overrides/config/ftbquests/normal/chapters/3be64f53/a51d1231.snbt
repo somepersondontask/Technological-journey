@@ -1,5 +1,5 @@
 {
-	title: "Benzyl Chloride",
+	title: "benzyl chloride",
 	icon: {
 		id: "forge:bucketfilled",
 		tag: {
@@ -7,7 +7,7 @@
 			Amount: 1000
 		}
 	},
-	x: -6.0d,
+	x: -5.5d,
 	y: -4.5d,
 	shape: "rsquare",
 	text: [
@@ -16,6 +16,6 @@
 	tasks: [{
 		uid: "703d44f9",
 		type: "checkmark",
-		title: "Benzyl Chloride"
+		title: "benzyl chloride"
 	}]
 }

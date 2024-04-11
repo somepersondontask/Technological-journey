@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"1bcba84d"
+	],
+	optional: true,
+	tasks: [{
+		uid: "2ad51101",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2822"
+		}]
+	}],
+	rewards: [{
+		uid: "700c95db",
+		type: "item",
+		item: "gtadditions:ga_meta_item 1 16076",
+		count: 18
+	}]
+}

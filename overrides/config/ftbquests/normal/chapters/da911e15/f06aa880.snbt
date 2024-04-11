@@ -2,9 +2,6 @@
 	x: 5.5d,
 	y: 9.0d,
 	shape: "hexagon",
-	text: [
-		"Congratulations!"
-	],
 	dependencies: [
 		"8b92accd"
 	],

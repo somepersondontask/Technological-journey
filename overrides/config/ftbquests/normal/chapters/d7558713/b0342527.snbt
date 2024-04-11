@@ -1,54 +1,17 @@
 {
-	title: "You're gonna hate this!",
 	x: -1.5d,
 	y: -1.0d,
-	text: [
-		"Maybe \"hate\" is a strong word, but you definitely need to put in some elbow grease to get the Assembly Line automated."
-	],
 	dependencies: [
 		"2e1bceba",
 		"5e26a217",
 		"a0d45962"
 	],
 	tasks: [{
-		uid: "af659e1e",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 32606"
-		}]
-	},
-	{
-		uid: "8d122a98",
+		uid: "6cd20ea5",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 32655"
-		}]
-	},
-	{
-		uid: "ec20d47b",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 32645"
-		}]
-	},
-	{
-		uid: "3274d647",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 32615"
-		}]
-	},
-	{
-		uid: "afc62c11",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 32635"
-		}]
-	}],
-	rewards: [{
-		uid: "38dd99ab",
-		type: "item",
-		item: "gregtech:meta_item_1 1 10302",
-		count: 64
+		}],
+		count: 2L
 	}]
 }

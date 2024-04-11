@@ -1,0 +1,24 @@
+{
+	x: 10.5d,
+	y: -0.5d,
+	shape: "rsquare",
+	text: [
+		"Zirconium is required to make the Alloy Blast Smelter, but it can be hard to find. Here's a scanner module tuned for Zirkelite ore."
+	],
+	tasks: [{
+		uid: "35b85728",
+		type: "checkmark",
+		icon: "gregtech:ore_zirkelite_0 1 6"
+	}],
+	rewards: [{
+		uid: "c31d500f",
+		type: "item",
+		item: {
+			id: "scannable:module_block",
+			tag: {
+				meta: 6,
+				block: "gregtech:ore_zirkelite_0"
+			}
+		}
+	}]
+}

@@ -5,10 +5,9 @@
 		"2f9c9021"
 	],
 	tasks: [{
-		uid: "270d85b4",
-		type: "item",
-		items: [{
-			item: "gtadditions:ga_dust 1 1"
-		}]
+		uid: "a85a1cb6",
+		type: "checkmark",
+		title: "Indium Trifluoride Dust",
+		icon: "gtadditions:ga_dust 1 1"
 	}]
 }

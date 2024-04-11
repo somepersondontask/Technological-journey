@@ -7,10 +7,8 @@
 		"3a9f1a28"
 	],
 	tasks: [{
-		uid: "36c82d63",
-		type: "item",
-		items: [{
-			item: "gtadditions:ga_dust 1 68"
-		}]
+		uid: "f8f9c9ab",
+		type: "checkmark",
+		title: "Unfoldet Fullerene"
 	}]
 }

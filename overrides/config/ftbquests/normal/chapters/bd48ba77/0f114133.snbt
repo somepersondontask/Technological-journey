@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	text: [
+		"Mendelevium is the last isotope you will need to process, so this marks the end of the nuclear chains."
+	],
+	dependencies: [
+		"7d4078a6"
+	],
+	tasks: [{
+		uid: "b8560f28",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2780"
+		}]
+	}]
+}

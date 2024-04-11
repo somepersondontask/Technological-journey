@@ -6,10 +6,8 @@
 		"c9bb8aa4"
 	],
 	tasks: [{
-		uid: "77cfe80e",
-		type: "item",
-		items: [{
-			item: "gtadditions:ga_dust 1 938"
-		}]
+		uid: "83071629",
+		type: "checkmark",
+		title: "Trinium Tetrafluoride"
 	}]
 }

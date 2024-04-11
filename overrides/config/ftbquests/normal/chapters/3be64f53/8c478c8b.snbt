@@ -6,7 +6,7 @@
 			Amount: 1000
 		}
 	},
-	x: -4.0d,
+	x: -3.5d,
 	y: -2.5d,
 	dependencies: [
 		"efc701b2"
@@ -14,6 +14,6 @@
 	tasks: [{
 		uid: "c198feaf",
 		type: "checkmark",
-		title: "Hydroxylamine Hydrochloride"
+		title: "hydroxylamine hydrochloride"
 	}]
 }

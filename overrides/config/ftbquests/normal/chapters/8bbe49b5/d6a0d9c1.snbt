@@ -1,13 +1,10 @@
 {
 	title: "Vacuum Freezer",
-	x: -4.0d,
-	y: 2.5d,
+	x: -6.0d,
+	y: -4.5d,
 	shape: "rsquare",
 	text: [
 		""
-	],
-	dependencies: [
-		"d5932674"
 	],
 	tasks: [{
 		uid: "930fcf2a",

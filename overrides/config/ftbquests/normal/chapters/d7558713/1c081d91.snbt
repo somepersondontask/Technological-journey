@@ -1,7 +1,10 @@
 {
-	x: 0.5d,
+	x: 3.0d,
 	y: 4.0d,
 	shape: "rsquare",
+	text: [
+		"Hope you have nuclear up to this stage!"
+	],
 	tasks: [{
 		uid: "d5e79933",
 		type: "item",

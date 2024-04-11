@@ -7,10 +7,7 @@
 		"ca239ccd"
 	],
 	tasks: [{
-		uid: "0337f87d",
-		type: "item",
-		items: [{
-			item: "gtadditions:ga_dust 1 67"
-		}]
+		uid: "fd2698cc",
+		type: "checkmark"
 	}]
 }

@@ -1,0 +1,23 @@
+{
+	x: 13.5d,
+	y: 5.0d,
+	text: [
+		"You will need a Large Centrifuge to process Rare Earth Chloride Solution."
+	],
+	dependencies: [
+		"1225fb9c",
+		"c59c0167"
+	],
+	tasks: [{
+		uid: "848ef85e",
+		type: "checkmark",
+		title: "Rare Earth Chloride Solution Bucket",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "rare_earth_chlorides_solution",
+				Amount: 1000
+			}
+		}
+	}]
+}

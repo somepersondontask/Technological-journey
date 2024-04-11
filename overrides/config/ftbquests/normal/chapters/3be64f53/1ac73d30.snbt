@@ -6,7 +6,7 @@
 			Amount: 1000
 		}
 	},
-	x: -4.0d,
+	x: -2.5d,
 	y: 0.5d,
 	shape: "rsquare",
 	tasks: [{

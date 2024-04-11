@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 6.5d,
+	dependencies: [
+		"d7f5ab11"
+	],
+	tasks: [{
+		uid: "4790ddaa",
+		type: "checkmark",
+		title: "Sm-Gd Oxides Solution",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "sm_gd_oxides_solution",
+				Amount: 1000
+			}
+		}
+	}]
+}

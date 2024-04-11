@@ -5,9 +5,8 @@
 	shape: "rsquare",
 	description: "Same old same old, punch a tree.",
 	text: [
-		"Welcome to Technological Journey! Smack a tree a few times for some nice gear.",
 		"",
-		"If you want to put hammering on the given hammer, it will allow you to condense different types of ore (ie: stone and diorite) into their crushed varients, at the expense of making more raw items in your inventory. It's your choice."
+		"Welcome to Technological Journey! Smack a tree a few times for some nice gear."
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{
@@ -93,19 +92,6 @@
 				{
 					id: 34s,
 					lvl: 15s
-				}]
-			}
-		}
-	},
-	{
-		uid: "5c8e7250",
-		type: "item",
-		item: {
-			id: "minecraft:enchanted_book",
-			tag: {
-				StoredEnchantments: [{
-					id: 36s,
-					lvl: 1s
 				}]
 			}
 		}
